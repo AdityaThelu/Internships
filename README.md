@@ -1,1 +1,1 @@
-This repository is created to add all the MBA books and prep guides
+This repository is created to add all the Internship offer letters
