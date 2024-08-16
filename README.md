@@ -2,12 +2,12 @@
 A Repo for all my Internships, offer letters and experiences. 
 
 ### Timeline:
-    1. Associate Project Manager            Jan   2024
-    2. Digital Marketing Intern             Feb   2024
-    3. Digital Marketing Intern             March 2024
-    4. Remoote AI Trainer                   July  2024
-
-### Remoote AI Trainer
+1. Associate Project Manager
+2. Digital Marketing Intern
+3. Digital Marketing Intern (IIDE)
+4. Remote AI Trainer
+   
+### Remote AI Trainer
 at [Outlie AI](https://outlier.ai) as Part time Freelancer.
 
 **July 2024**
