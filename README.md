@@ -2,10 +2,10 @@
 A Repo for all my Internships, offer letters and experiences. 
 
 ### Timeline:
-1. Associate Project Manager
-2. Digital Marketing Intern
-3. Digital Marketing Intern (IIDE)
-4. Remote AI Trainer
+1. [Associate Project Manager](#associate-project-manager)
+2. [Digital Marketing Intern](#digital-marketing-intern)
+3. [Digital Marketing Intern (IIDE)](#digital-marketing-intern-iide)
+4. [Remote AI Trainer](#remote-ai-trainer)
    
 ### Remote AI Trainer
 at [Outlie AI](https://outlier.ai) as Part time Freelancer.
@@ -15,7 +15,7 @@ at [Outlie AI](https://outlier.ai) as Part time Freelancer.
 - I've been working in role of an AI Training expert as a freelancer in outlier.
 -Please find the [offer letter here](https://github.com/AdityaThelu/Internships/blob/main/Outlier%20India.pdf). 
 
-### Digital Marketing Intern
+### Digital Marketing Intern IIDE
 at [IIDE](https://iide.co) - Indian Institute of Digital Education
 
 **March 2024**
